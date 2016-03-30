@@ -1,0 +1,46 @@
+body {
+  background-image: url("../img/DUNDER.jpg");
+  background-size: 1300px 900px;
+  color: black;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+
+}
+
+h1 {
+  text-align: left;
+  color: black;
+
+}
+
+#quoteContainer {
+    height: 100px;
+    width: 500px;
+    margin: auto;
+    position: absolute;
+    padding-top: 70px;
+    font-family: monospace;
+    text-align: center;
+    float: left;
+    margin: 100px 0px 0px 50px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+button {
+  margin: 370px 0 0 245px;
+  position: absolute;
+  background-color: gray;
+  color: white;
+  font-family: monospace;
+  border-radius: 7px;
+  width: 100px;
+}
+
+p {
+  color: black;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+}
+
