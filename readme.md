@@ -2,6 +2,17 @@
 
 We're going to use jQuery to make a webpage that displays a random quote.
 
+##Getting Started
+
+* Fork and clone this repository
+* Run `npm install` to install dependencies
+  * `npm start` - start the BrowserSync server
+  * `npm run lint:css` - lint CSS
+  * `npm run lint:js` - lint JS
+* Setup your HTML page, and don't forget to include links to the CSS and JS files.
+* Be creative! Both in your choice of quotes and styling. Think about all of those different CSS properties.
+* As a bonus, add a form field and allow people to include their own quotes in your random generator.
+
 ##Requirements
 
 * Using jQuery, create a webpage that generates a random quote and display it on the page when a button is clicked
@@ -13,13 +24,3 @@ We're going to use jQuery to make a webpage that displays a random quote.
 
 [Star Wars Random Quote](http://codepen.io/thomasvaeth/full/epmrEm/)
 
-##Getting Started
-
-* Fork and clone this repository
-* Run `npm install` to install dependencies
-  * `npm start` - start the BrowserSync server
-  * `npm run lint:css` - lint CSS
-  * `npm run lint:js` - lint JS
-* Setup your HTML page, and don't forget to include links to the CSS and JS files.
-* Be creative! Both in your choice of quotes and styling. Think about all of those different CSS properties.
-* As a bonus, add a form field and allow people to include their own quotes in your random generator.
