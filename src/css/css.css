@@ -1,0 +1,53 @@
+html{
+  height: 100%;
+  }
+
+body{
+  height: 100%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  }
+
+#wrapper {
+  margin: 0 auto;
+  background-color: lightBlue;
+  width: 800px;
+  padding:0;
+  height: 600px;
+}
+
+h1{
+  text-align: center;
+  margin: 20px;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  color: white;
+  font-weight: 300;
+}
+
+#quote {
+  margin: 40px auto;
+  background-color: darkBlue;
+  width: 400px;
+  height: 400px;
+  text-align:center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  border-radius: 10px;
+}
+
+button {
+  width: 200px;
+  font-size: 18px;
+  margin: 20px auto;
+  display:block;
+  font-family: 'Open Sans', sans-serif;
+  border-radius: 10px;
+  font-weight: 300;
+  color: white;
+}
