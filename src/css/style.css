@@ -1,0 +1,42 @@
+body {
+  background: url(https://upload.wikimedia.org/wikipedia/commons/6/6f/Earth_Eastern_Hemisphere.jpg) no-repeat;
+  background-size: cover;
+  background-color: grey;
+
+
+}
+h1 {
+  font-size: 100px;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-size: 50px;
+  color: white;
+  text-align: center;
+
+}
+button {
+  -moz-box-shadow: 0px 0px 0px 0px #3dc21b;
+  -webkit-box-shadow: 0px 0px 0px 0px #3dc21b;
+  box-shadow: 0px 0px 0px 0px #3dc21b;
+  background-color:#44c767;
+  -moz-border-radius:28px;
+  -webkit-border-radius:28px;
+  border-radius:28px;
+  border:1px solid #18ab29;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:18px;
+  padding:16px 46px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #2f6627;
+  display: inline-block;
+  margin-left: 825px;
+
+}
+button:hover {
+  background-color:#5cbf2a;
