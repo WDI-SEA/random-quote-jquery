@@ -13,6 +13,13 @@ We're going to use jQuery to make a webpage that displays a random quote.
 * Be creative! Both in your choice of quotes and styling. Think about all of those different CSS properties.
 * As a bonus, add a form field and allow people to include their own quotes in your random generator.
 
+## Gathering Quotes
+IMDB and Goodreads are good sources for quotes. Look up a movie, an author or book that you like and see what they have.
+Feel free to google around for any other collection of quotes you feel inspired to use.
+
+- [IMDB quotes from the movie "Rushmore"](http://www.imdb.com/title/tt0128445/quotes?item=qt0429722)
+- [Goodreads quotes from Richard Feynman](https://www.goodreads.com/author/quotes/1429989.Richard_Feynman)
+
 ##Requirements
 
 * Using jQuery, create a webpage that generates a random quote and display it on the page when a button is clicked
