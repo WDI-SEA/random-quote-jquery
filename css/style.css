@@ -1,0 +1,46 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+html {
+	background-image: url(../img/san_diego.jpg);
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+   	font-family: 'Fjalla One', sans-serif;
+}
+body {
+	text-align: center;
+}
+h1 {
+	color: red;
+	font-size: 3em;
+	opacity: 1;
+}
+
+h3 {
+	font-size: 2.5em;
+	text-align: left;
+	margin-left: 10%;
+}
+
+p {
+	text-align: center;
+	font-weight: bold;
+	font-size: 2.2em;
+
+}
+#quoteBox {
+	color: violet;
+}
+#btn {
+	font-size: 1.3em;
+	border-radius: 8px;
+	background-color: maroon;
+	position:absolute;
+	color: white;
+	top: 400px;
+	right: 45%;
+}
