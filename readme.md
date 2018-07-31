@@ -2,7 +2,7 @@
 
 We're going to use jQuery to make a webpage that displays a random quote.
 
-##Getting Started
+## Getting Started
 
 * Fork and clone this repository
 * Run `npm install` to install dependencies
@@ -20,14 +20,14 @@ Feel free to google around for any other collection of quotes you feel inspired 
 - [IMDB quotes from the movie "Rushmore"](http://www.imdb.com/title/tt0128445/quotes?item=qt0429722)
 - [Goodreads quotes from Richard Feynman](https://www.goodreads.com/author/quotes/1429989.Richard_Feynman)
 
-##Requirements
+## Requirements
 
 * Using jQuery, create a webpage that generates a random quote and display it on the page when a button is clicked
   * Note that you'll want to store quotes in an array, and use `Math.random()` and `Math.floor()` to generate random array indicies.
   * See MDN for `Math.random` examples: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 * Every time the button is clicked, clear the page and replace it with a new random quote.
 
-##Example
+## Example
 
 [Star Wars Random Quote](http://codepen.io/thomasvaeth/full/epmrEm/)
 
