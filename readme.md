@@ -27,6 +27,10 @@ Feel free to google around for any other collection of quotes you feel inspired 
   * See MDN for `Math.random` examples: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 * Every time the button is clicked, clear the old quote and replace it with a new random quote.
 
+## Bonus!
+
+* If you've already encountered AJAX, alter this assignment to use a Quote API to pull quotes 
+
 ---
 
 ## Licensing
