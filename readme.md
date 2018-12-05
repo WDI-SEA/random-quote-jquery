@@ -29,7 +29,7 @@ Feel free to google around for any other collection of quotes you feel inspired 
 
 ## Bonus!
 
-* If you've already encountered AJAX, alter this assignment to use a Quote API to pull quotes 
+* If you've already encountered AJAX or fetch, alter this assignment to use a Quote API to pull quotes 
 
 ---
 
